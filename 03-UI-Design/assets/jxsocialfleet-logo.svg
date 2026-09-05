@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">极星AI社媒 Logo</title>
+  <desc id="desc">A minimal Android AI icon with social conversation and video symbols.</desc>
+  <rect x="10" y="10" width="108" height="108" rx="16" fill="#2F6BFF"/>
+  <path d="M39 54a25 25 0 0 1 50 0v31a6 6 0 0 1-6 6H45a6 6 0 0 1-6-6z" fill="#39CFA0"/>
+  <path d="m48 45-6-9M80 45l6-9" stroke="#D7FFF0" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="54" cy="58" r="4" fill="#123D4B"/><circle cx="74" cy="58" r="4" fill="#123D4B"/>
+  <circle cx="26" cy="78" r="11" fill="#EC4899"/>
+  <path d="M20 75h11a3 3 0 0 1 3 3v3a3 3 0 0 1-3 3h-6l-5 4v-4h0a3 3 0 0 1-3-3v-3a3 3 0 0 1 3-3z" fill="#fff"/>
+  <circle cx="23" cy="79" r="1.2" fill="#EC4899"/><circle cx="26" cy="79" r="1.2" fill="#EC4899"/><circle cx="29" cy="79" r="1.2" fill="#EC4899"/>
+  <circle cx="102" cy="78" r="11" fill="#13B7D1"/>
+  <path d="m98 72 10 6-10 6z" fill="#fff"/>
+  <circle cx="91" cy="28" r="11" fill="#FFB11B"/>
+  <path d="m91 20 3 6 6 2-6 3-3 6-3-6-6-3 6-2z" fill="#fff"/>
+</svg>
