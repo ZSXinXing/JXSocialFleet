@@ -392,6 +392,10 @@
     state.pendingTagsFile=state.pendingTagsFile||'D:\\极星AI社媒\\标签.txt';
     state.pendingCaptionLines=Array.isArray(state.pendingCaptionLines)?state.pendingCaptionLines:[];
     state.pendingTagsLines=Array.isArray(state.pendingTagsLines)?state.pendingTagsLines:[];
+    state.pendingCaptionSource=state.pendingCaptionSource||'txt';
+    state.pendingTagsSource=state.pendingTagsSource||'txt';
+    state.pendingFixedCaption=state.pendingFixedCaption||'';
+    state.pendingFixedTags=state.pendingFixedTags||'';
     state.pendingDistributionRule=state.pendingDistributionRule||'随机抽取';
     state.pendingMaterialCount=Math.max(1,Number(state.pendingMaterialCount)||1);
     const supportedPlatforms=['Facebook','YouTube','Instagram','TikTok','Twitter/X'];
